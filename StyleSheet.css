@@ -1,6 +1,7 @@
-h1 {font-family: serif;} 
-h1 {font-size: 300%;}
-h1 {margin:50px;}
-p {margin: 50px;}
-p {font-size: 120%}
+h1 {font-family: serif;
+    font-size: 300%;
+    margin:50px;}
+p {margin: 50px;
+    font-size: 120%}
+
 .center {text-align:center;}
