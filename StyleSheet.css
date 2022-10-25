@@ -4,6 +4,11 @@ h1 {
   margin: 50px;
   text-align: center;
 }
+h2{ 
+    font-family: serif;
+    font-size: 180%; 
+    text-align: center;
+}
 
 p {
   margin: 50px;
