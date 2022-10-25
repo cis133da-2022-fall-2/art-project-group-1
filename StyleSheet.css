@@ -12,6 +12,7 @@ p {
 }
 body {
   border: 5px solid black;
+  margin: 100px;
 }
 .box {
   width: 600px;
