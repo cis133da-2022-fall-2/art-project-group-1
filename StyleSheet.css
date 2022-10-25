@@ -1,8 +1,7 @@
 h1 {font-family: serif;
     font-size: 300%;
-    margin:50px;}
+    margin:50px;
+    text-align:center; }
     
 p {margin: 50px;
     font-size: 120%}
-
-.center {text-align:center;}
