@@ -6,3 +6,4 @@ h1 {font-family: serif;
 p {margin: 50px;
     font-size: 120%;
     text-align:center;}
+body{ border:5px solid black; }
