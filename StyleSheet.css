@@ -18,6 +18,7 @@ p {
 body {
   border: 5px solid black;
   margin: 100px;
+  background-color:forestgreen
 }
 .box {
   width: 600px;
@@ -30,3 +31,4 @@ a{
     text-align: center; 
     display: block;
 }
+html{ background-color: aqua;}
