@@ -33,6 +33,12 @@ img {
 a {
   text-align: center;
   display: block;
+  border: 3px solid rgb(255, 255, 255);
+  padding: 0px;
+  margin-left: 700px;
+  margin-right: 700px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 html {
   background-color: rgb(177, 6, 6);
