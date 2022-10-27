@@ -27,15 +27,27 @@ body {
   width: 600px;
   margin: auto;
 }
+.video {
+  text-align: center;
+}
 img {
   max-width: 100%;
 }
-a {
-  text-align: center;
+#nav {
+  display: flex;
+  justify-content: space-between;
+}
+:any-link {
+  font-family: sans-serif;
   display: block;
   border: 3px solid rgb(255, 255, 255);
+  color: rgb(238, 217, 24);
+  background-color: rgb(177, 6, 6);
   margin-top: 10px;
-  margin-bottom: 10px;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0.25em;
 }
 html {
   background-color: rgb(177, 6, 6);
