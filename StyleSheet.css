@@ -33,14 +33,10 @@ img {
 a {
   text-align: center;
   display: block;
-<<<<<<< HEAD
   border: 3px solid rgb(255, 255, 255);
   margin-top: 10px;
   margin-bottom: 10px;
-=======
->>>>>>> 95eacafceee263598c82666d6025ff8b3ea3774c
 }
-
 html {
   background-color: rgb(177, 6, 6);
 }
